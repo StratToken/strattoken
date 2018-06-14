@@ -1,0 +1,66 @@
+/*-- css chages */
+a {color: #666;}
+
+body.io-azure, .section-bg.section-gradiant, .section-bg-alt.section-gradiant, .io-azure .section-bg-dark {background: #000;}
+.io-azure .loader-section {background-image: -webkit-linear-gradient(left, #eee 0%, #bbb 100%); background-image: linear-gradient(to right, #eee 0%, #bbb 100%);}
+
+.io-azure .section-pro h1, .io-azure .section-pro h2, .io-azure .section-pro h3, .io-azure .section-pro h4, .io-azure .section-pro h5, .io-azure .section-pro h6, .io-azure .section-pro blockquote, .io-azure .section-pro-alt h1, .io-azure .section-pro-alt h2, .io-azure .section-pro-alt h3, .io-azure .section-pro-alt h4, .io-azure .section-pro-alt h5, .io-azure .section-pro-alt h6 {color:#28384c !important;}
+.io-azure .banner {background: none;}
+
+
+.io-azure .banner-tokensale .countdown-box .btn.btn-alt {background:unset;}
+.io-azure .banner-tokensale .countdown-box .btn.btn-alt:before {background:unset;}
+
+
+
+.io-azure .site-header.has-fixed .navbar, .site-header.has-fixed .navbar {background: #000;}
+.io-azure .btn.btn-outline:after, .navbar .navbar-nav > li > a.nav-link.btn.btn-outline:after {background-image: -webkit-linear-gradient(left, #444 0%, #000 100%); background-image: linear-gradient(to right, #444 0%, #000 100%);}
+
+
+
+.site-header .navbar-nav > li > a {color:#999;}
+.site-header .navbar-nav .btn {color:#fff;}
+.navbar .navbar-nav > li > a.nav-link.btn:before {background-image: linear-gradient(to right, #bbb 0%, #eee 100%); border-radius: 50px; }
+.navbar .navbar-nav > li > a.nav-link.btn:hover, .navbar .navbar-nav > li > a.nav-link.btn.active {color: #000;}
+
+
+.btn:hover.btn-alt:before, .btn:hover.btn-alt:after, .io-azure .countdown-box .btn.btn-alt:before,  .io-azure .banner-tokensale .countdown-box .btn.btn-alt:before { background-image: -webkit-linear-gradient(left, #eee 0%, #bbb 100%); background-image: linear-gradient(to right, #eee 0%, #bbb 100%); border-radius:50px; }
+
+.btn:before {background: none;}
+.btns .btn,  .bg-team-exp.mfp-bg {background: #000; }
+.btns .btn:hover {background: #222;}
+.btn:not(.btn-simple):not(.btn-plane) {border-radius: 50px; background-image: -webkit-linear-gradient(left, #444 0%, #000 100%); background-image: linear-gradient(to right, #444 0%, #000 100%);}
+.btn:not(.btn-simple):not(.btn-plane):hover { background-image: -webkit-linear-gradient(left, #000 0%, #444 100%); background-image: linear-gradient(to right, #000 0%, #444 100%);}
+
+
+
+.io-azure .countdown-box .btn.btn-alt:hover  {color: #000;}
+
+#header .header-txt .btn { color: #fff !important;}
+#header .header-txt .btn:hover { color: #000 !important;}
+#header .order-first .btn:before, #header .order-first .btn:after, .io-azure .btn.btn-outline:after{ border-radius:50px;}
+.countdown-box.countdown-transparent, .io-azure .countdown-box {background:rgba(16, 16, 16, 0.85) !important;}
+.io-azure .countdown-box .token-countdown .countdown-text {color: #999;}
+
+.footer-particle {background: #000 url(../images/footer-bg-azure.png) no-repeat 50% 0/contain !important; border-top: 1px solid #222;}
+
+.theme-light .site-header .navbar-nav > li:hover a, .navbar .navbar-nav > li > a.nav-link.active { color: #3A6073; }
+
+.btn.btn-alt, .contact-info-alt li .fa{ background-image: -webkit-linear-gradient(left, #eee 0%, #bbb 100%); background-image: linear-gradient(to right, #eee 0%, #bbb 100%);   }
+.btn.btn-alt:before { background-image: -webkit-linear-gradient(left, #bbb 0%, #eee 100%); background-image: linear-gradient(to right, #bbb 0%, #eee 100%); border-radius:50px; }
+.section-pro .contact-info-alt li .fa {color: #727272;}
+.features-box img {max-width: 180px;}
+
+
+
+.theme-light .site-header .navbar-nav > li:hover a, .navbar .navbar-nav > li > a.nav-link.active, .navbar .navbar-nav > li:hover > a {color: #fff;}
+
+
+
+
+
+.section-head .section-title span, .section-head .section-title:before {color:rgba(112, 112, 112, 0.15);}
+.team-circle .team-photo:before { background-image: linear-gradient(to top, #494949 0%, #202020 100%); }
+
+
+.footer-subscription .input-round {background: #5f5f5f; border: 1px solid #4f4f4f;}

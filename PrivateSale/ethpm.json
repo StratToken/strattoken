@@ -1,0 +1,14 @@
+{
+  "package_name": "strattoken.io-token",
+  "version": "0.0.3",
+  "description": "STRAT TOKEN private sale contracts",
+  "authors": [
+    "Sujatha Alluru <sujatha@stratfit.co>",
+    "Soubhik Ghorai <soubhik.g@stratfit.co>"
+  ],
+  "keywords": [ "token", "ico" ],
+  "dependencies": {
+    "multisig-wallet": "^0.0.1"
+  },
+  "license": "MIT"
+}
